@@ -1,0 +1,9 @@
+# 编译产物
+/demo
+*.exe
+*.test
+*.out
+
+# IDE
+.idea/
+.vscode/
